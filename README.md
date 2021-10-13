@@ -14,3 +14,4 @@ I intend to write some test code to make sure that the structs are the same size
 
 The parser mostly only outputs things that it thinks it understands, so if there are any really useful parts of the winapi not coming over, let me know.
 
+These definitions will be put into a module when a little farther along.
